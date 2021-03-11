@@ -1,4 +1,4 @@
-# Github-course
+# Introduction to Git and GitHub
 Coursera (offered by Google)
 March, 2021
 
